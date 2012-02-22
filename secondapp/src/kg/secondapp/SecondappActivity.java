@@ -10,4 +10,10 @@ public class SecondappActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
     }
+    //static app
+    public static ssbsb{
+    	
+    	
+    	f,jslkdslkadja
+    }
 }
